@@ -1,9 +1,9 @@
 # My-programming-journey
 This is just a documented proof of my journey
-<h1>START...<h1>
-<p>I picked up a git and github tutorial from youtube with Gwen as the host, so I'll be starting with github.</p>
+# Start...
+I picked up a git and github tutorial from youtube with Gwen as the host, so I'll be starting with github.
 
-#LESSON 1
+# LESSON 1
        
 1. learnt how to create a repository on github.  
 2. Learnt how to edit readme file on github and commit changes  
